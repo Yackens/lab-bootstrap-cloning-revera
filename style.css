@@ -44,8 +44,21 @@ h5 {
 .linkRow4 {
     text-decoration: none;
     color: black;
-
 }
+.carousel-inner {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+.carousel-caption {
+    position: absolute;
+    top: 200px;
+    text-align: center;
+    background-color: none;
+    opacity: 75%;
+    color: white;
+}
+
 .linkRedRow4 {
     color: rgb(232, 94, 94);
     text-decoration: none;
